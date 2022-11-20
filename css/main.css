@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(240, 240, 240);
+} 
+.mainBody{
+    background-color: white; 
+    height: 1000px; 
+    width: 80%; 
+} 
+.list{
+    background: whitesmoke;  
+}
+h1, label{
+    color:gold;
+}
+.nav , .box{
+    box-shadow: 0 4px 8px 0 rgba(25, 224, 181, 0.541), 0 6px 20px 0 rgba(218, 15, 15, 0.19);  
+} 
+.box{
+    padding-bottom: 5%;    
+    margin:5% ;
+} 
+.pagetion{
+    width: 23%;  
+    margin: 100px;
+}
